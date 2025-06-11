@@ -1,0 +1,7 @@
+# 모든 파일 무시
+*
+
+# 예외 설정 (무시하지 않을 것들)
+!.gitignore
+!practice/
+!practice/**
