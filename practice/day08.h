@@ -6,5 +6,8 @@
 
 void f15_2();
 void f15_2_2();
+void f15_7();
+void f15_9();
 double get_average(int sum, int n);
+void f16_8();
 #endif

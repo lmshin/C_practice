@@ -25,37 +25,37 @@ char* to_upper(char* name, int size){
 //	return;
 //}
 
-char* strcpy(char * from, char * to) { //from을 to에 복사하는 함수
-	char* save = to;
-	for (; (*to = *from); from++, to++);
-	return save;
-}
-
-int strlen(char * str) {
-	const char* s;
-	if (str == 0) return 0;
-
-	for (s=str; *s; s++);
-	return s - str;
-}
-
-void strcat(char* s, const char* append) {
-	char* save = s;
-	for (; *s; s++);
-	while (*s++ = *append++);
-	return save;
-}
-
-int strcmp(char* str1, char* str2) {
-
-	while (*str1 == *str2) {
-		if (*str1 == '\0') return 0;  // 문자열 끝까지 동일하면 0 반환
-		str1++;
-		str2++;
-	}
-
-	return *(unsigned const char*)str1 - *(unsigned const char*)str2;
-}
+//char* strcpy(char * from, char * to) { //from을 to에 복사하는 함수
+//	char* save = to;
+//	for (; (*to = *from); from++, to++);
+//	return save;
+//}
+//
+//int strlen(char * str) {
+//	const char* s;
+//	if (str == 0) return 0;
+//
+//	for (s=str; *s; s++);
+//	return s - str;
+//}
+//
+//void strcat(char* s, const char* append) {
+//	char* save = s;
+//	for (; *s; s++);
+//	while (*s++ = *append++);
+//	return save;
+//}
+//
+//int strcmp(char* str1, char* str2) {
+//
+//	while (*str1 == *str2) {
+//		if (*str1 == '\0') return 0;  // 문자열 끝까지 동일하면 0 반환
+//		str1++;
+//		str2++;
+//	}
+//
+//	return *(unsigned const char*)str1 - *(unsigned const char*)str2;
+//}
 
 void f10_10(void) {
 	printf("num : %d\n", GetNum()); //0

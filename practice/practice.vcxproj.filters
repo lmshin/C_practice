@@ -74,5 +74,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="numbers.txt" />
+    <Text Include="data.txt" />
   </ItemGroup>
 </Project>
