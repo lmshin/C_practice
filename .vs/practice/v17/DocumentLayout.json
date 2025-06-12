@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\DSO7\\source\\repos\\practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day07.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day05.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day07.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day08.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day08.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\test01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\test01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\num.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\num.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day04.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day03.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day06.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,40 +67,12 @@
       "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day06.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day05.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day04.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\test01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\test01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\day03.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day02.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -78,63 +86,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "day07.h",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.h",
-              "RelativeDocumentMoniker": "practice\\day07.h",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.h",
-              "RelativeToolTip": "practice\\day07.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "numbers.txt",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\numbers.txt",
+              "RelativeDocumentMoniker": "practice\\numbers.txt",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\numbers.txt",
+              "RelativeToolTip": "practice\\numbers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-12T00:42:25.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "day08.h",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day08.h",
+              "RelativeDocumentMoniker": "practice\\day08.h",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day08.h",
+              "RelativeToolTip": "practice\\day08.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T00:43:23.508Z",
+              "WhenOpened": "2025-06-12T00:06:52.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "day08.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day08.c",
+              "RelativeDocumentMoniker": "practice\\day08.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day08.c",
+              "RelativeToolTip": "practice\\day08.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-12T00:06:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "day07.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.c",
               "RelativeDocumentMoniker": "practice\\day07.c",
               "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.c",
               "RelativeToolTip": "practice\\day07.c",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAkwIEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-11T00:43:17.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "day06.h",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.h",
-              "RelativeDocumentMoniker": "practice\\day06.h",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.h",
-              "RelativeToolTip": "practice\\day06.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-10T00:01:14.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "day06.c",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.c",
-              "RelativeDocumentMoniker": "practice\\day06.c",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.c",
-              "RelativeToolTip": "practice\\day06.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-10T00:01:07.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "num.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\num.c",
               "RelativeDocumentMoniker": "practice\\num.c",
@@ -147,28 +155,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "day05.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.h",
               "RelativeDocumentMoniker": "practice\\day05.h",
               "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.h",
               "RelativeToolTip": "practice\\day05.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-09T00:19:25.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "day05.c",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.c",
-              "RelativeDocumentMoniker": "practice\\day05.c",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.c",
-              "RelativeToolTip": "practice\\day05.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-09T00:19:17.881Z",
               "EditorCaption": ""
             },
             {
@@ -179,64 +174,27 @@
               "RelativeDocumentMoniker": "practice\\day04.h",
               "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.h",
               "RelativeToolTip": "practice\\day04.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-05T01:34:33.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "day04.c",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.c",
-              "RelativeDocumentMoniker": "practice\\day04.c",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.c",
-              "RelativeToolTip": "practice\\day04.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-05T01:34:26.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "day03.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.h",
               "RelativeDocumentMoniker": "practice\\day03.h",
               "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.h",
               "RelativeToolTip": "practice\\day03.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-04T00:08:14.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "day03.c",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.c",
-              "RelativeDocumentMoniker": "practice\\day03.c",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.c",
-              "RelativeToolTip": "practice\\day03.c",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-04T00:08:06.333Z",
+              "WhenOpened": "2025-06-04T00:08:14.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\main.c",
-              "RelativeDocumentMoniker": "practice\\main.c",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\main.c",
-              "RelativeToolTip": "practice\\main.c",
-              "ViewState": "AgIAABQAAAAAAAAAAAD4vyIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-02T01:20:40.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "func.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\func.c",
               "RelativeDocumentMoniker": "practice\\func.c",
@@ -249,7 +207,109 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "day05.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.c",
+              "RelativeDocumentMoniker": "practice\\day05.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.c",
+              "RelativeToolTip": "practice\\day05.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-09T00:19:17.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\main.c",
+              "RelativeDocumentMoniker": "practice\\main.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\main.c",
+              "RelativeToolTip": "practice\\main.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAD4vxsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-02T01:20:40.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "day04.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.c",
+              "RelativeDocumentMoniker": "practice\\day04.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.c",
+              "RelativeToolTip": "practice\\day04.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T01:34:26.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test01.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\test01.c",
+              "RelativeDocumentMoniker": "practice\\test01.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\test01.c",
+              "RelativeToolTip": "practice\\test01.c",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-30T07:20:19.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "day07.h",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.h",
+              "RelativeDocumentMoniker": "practice\\day07.h",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.h",
+              "RelativeToolTip": "practice\\day07.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T00:43:23.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "day06.h",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.h",
+              "RelativeDocumentMoniker": "practice\\day06.h",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.h",
+              "RelativeToolTip": "practice\\day06.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-10T00:01:14.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "day06.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.c",
+              "RelativeDocumentMoniker": "practice\\day06.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.c",
+              "RelativeToolTip": "practice\\day06.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-10T00:01:07.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "day03.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.c",
+              "RelativeDocumentMoniker": "practice\\day03.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.c",
+              "RelativeToolTip": "practice\\day03.c",
+              "ViewState": "AgIAAIEAAAAAAAAAAABIwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-04T00:08:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "day02.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day02.c",
               "RelativeDocumentMoniker": "practice\\day02.c",
@@ -257,24 +317,11 @@
               "RelativeToolTip": "practice\\day02.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-02T01:19:37.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T01:19:37.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "algorithm.cpp",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\algorithm.cpp",
-              "RelativeDocumentMoniker": "practice\\algorithm.cpp",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\algorithm.cpp",
-              "RelativeToolTip": "practice\\algorithm.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-05T07:09:44.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "day02.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day02.h",
               "RelativeDocumentMoniker": "practice\\day02.h",
@@ -283,18 +330,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-02T01:20:02.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "test01.c",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\test01.c",
-              "RelativeDocumentMoniker": "practice\\test01.c",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\test01.c",
-              "RelativeToolTip": "practice\\test01.c",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-30T07:20:19.747Z"
             }
           ]
         }

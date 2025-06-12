@@ -112,7 +112,7 @@ void f14_1() {
 
 void print_ary(int* ary, int size) {
 	for (int i = 0; i < size; i++) {
-		printf("%d", ary[i]);
+		printf("%d ", ary[i]);
 	}
 	printf("%c",'\n');
 }
@@ -201,7 +201,10 @@ void f14_9() {
 
 #include <stdio.h>
 int compInt(const void* a, const void* b) {
-	return *(const int*)a - *(const int*)b;
+	//return *(const int*)a - *(const int*)b; 이렇게 하면 overflow 발생 가능
+	int aa = *(int*)a;
+	int bb = *(int*)b;
+	return (aa > bb) - (aa < bb);
 }
 
 int compChar(const void* a, const void* b) {

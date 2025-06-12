@@ -123,13 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="algorithm.cpp" />
     <ClCompile Include="day02.c" />
     <ClCompile Include="day03.c" />
     <ClCompile Include="day04.c" />
     <ClCompile Include="day05.c" />
     <ClCompile Include="day06.c" />
     <ClCompile Include="day07.c" />
+    <ClCompile Include="day08.c" />
     <ClCompile Include="func.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="num.c" />
@@ -144,6 +144,10 @@
     <ClInclude Include="day05.h" />
     <ClInclude Include="day06.h" />
     <ClInclude Include="day07.h" />
+    <ClInclude Include="day08.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="numbers.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

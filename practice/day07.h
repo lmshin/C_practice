@@ -1,4 +1,4 @@
-#ifdef __DAY07_H__
+#ifndef __DAY07_H__
 #define __DAY07_H__
 #define __CRT_SECURE_NO_WARNINGS
 #include <stdio.h>

@@ -30,9 +30,6 @@
     <ClCompile Include="day04.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="algorithm.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="day05.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -48,25 +45,34 @@
     <ClCompile Include="day07.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="day02.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="day03.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="day04.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="day05.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="day06.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="day08.h">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="day07.h">
-      <Filter>소스 파일</Filter>
+      <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="day05.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="day04.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="day02.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="day03.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="day06.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="numbers.txt" />
   </ItemGroup>
 </Project>

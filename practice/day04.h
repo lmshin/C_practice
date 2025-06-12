@@ -1,5 +1,5 @@
-#ifdef __DAY04_H__
-#define __DAY04_H_-
+#ifndef __DAY04_H__
+#define __DAY04_H__
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
