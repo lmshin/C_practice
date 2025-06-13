@@ -130,6 +130,7 @@
     <ClCompile Include="day06.c" />
     <ClCompile Include="day07.c" />
     <ClCompile Include="day08.c" />
+    <ClCompile Include="day09.c" />
     <ClCompile Include="func.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="num.c" />
@@ -145,10 +146,14 @@
     <ClInclude Include="day06.h" />
     <ClInclude Include="day07.h" />
     <ClInclude Include="day08.h" />
+    <ClInclude Include="day09.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="data.txt" />
     <Text Include="numbers.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="alloc_data.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

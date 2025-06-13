@@ -38,6 +38,10 @@ int main() {
 	//f15_2b();
 	//f15_7();
 	//f15_9();
-	f16_8();
+	//f16_8();
+	//alloc_ex01();
+	//alloc_ex02();
+	//alloc_ex03();
+	alloc_ex04();
 	return 0;
 }
