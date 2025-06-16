@@ -42,6 +42,12 @@ int main() {
 	//alloc_ex01();
 	//alloc_ex02();
 	//alloc_ex03();
-	alloc_ex04();
+	//alloc_ex04();
+	//f16_9();
+	//f17_03();
+	unsigned int a = 0xF0000000;
+	long int b = 0xF0000000;
+	printf("%d, %d", a, b);
+
 	return 0;
 }

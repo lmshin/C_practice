@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{81ec9057-19a7-40f9-b688-4fafe9b8d1da}</ProjectGuid>
-    <RootNamespace>practice</RootNamespace>
+    <ProjectGuid>{6fda11d5-8b19-43bd-af63-55fe66f7ba5f}</ProjectGuid>
+    <RootNamespace>algorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>week01</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -75,7 +74,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNINGS;</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -124,39 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="day02.c" />
-    <ClCompile Include="day03.c" />
-    <ClCompile Include="day04.c" />
-    <ClCompile Include="day05.c" />
-    <ClCompile Include="day06.c" />
-    <ClCompile Include="day07.c" />
-    <ClCompile Include="day08.c" />
-    <ClCompile Include="day09.c" />
-    <ClCompile Include="func.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="num.c" />
-    <ClCompile Include="preorocessor.c" />
-    <ClCompile Include="test01.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="day02.h" />
-    <ClInclude Include="day03.h" />
-    <ClInclude Include="day04.h" />
-    <ClInclude Include="day05.h" />
-    <ClInclude Include="day06.h" />
-    <ClInclude Include="day07.h" />
-    <ClInclude Include="day08.h" />
-    <ClInclude Include="day09.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="data.txt" />
-    <Text Include="numbers.txt" />
-    <Text Include="student.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="alloc_data.txt" />
+    <ClInclude Include="recursive.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

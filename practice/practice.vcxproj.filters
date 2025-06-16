@@ -51,6 +51,9 @@
     <ClCompile Include="day09.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="preorocessor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="day08.h">
@@ -81,6 +84,7 @@
   <ItemGroup>
     <Text Include="numbers.txt" />
     <Text Include="data.txt" />
+    <Text Include="student.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="alloc_data.txt" />
