@@ -123,6 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="day10.cpp" />
+    <ClCompile Include="LinedLsit.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>

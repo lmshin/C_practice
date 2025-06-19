@@ -1,4 +1,2 @@
-﻿  main.c
-C:\Users\DSO7\source\repos\practice\algorithm\main.c(169,1): warning C4717: 'test_02': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
-C:\Users\DSO7\source\repos\practice\algorithm\main.c(175,1): warning C4717: 'test_01': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+﻿  LinedLsit.c
   algorithm.vcxproj -> C:\Users\DSO7\source\repos\practice\Debug\algorithm.exe

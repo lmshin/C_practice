@@ -22,7 +22,6 @@ void test_14(int visit[], int max, int current_len, int target_len, char sequenc
     }
 
 }
-
 static void printAry(int L) {
     for (int i = 1; i <= L; i++) {
         printf("%d", arr[i]);
@@ -31,7 +30,6 @@ static void printAry(int L) {
 
     return;
 }
-
 void test_13(int * visit, int L) {
     if (L > N) {
         printAry(L);
@@ -49,7 +47,6 @@ void test_13(int * visit, int L) {
         }
     }
 }
-
 void test_12() {
     for (int i = 1; i <= 3; i++)
     {
@@ -174,17 +171,17 @@ void test_01(int L, int a, int b, double c)
     test_01(L + 1, 1, 2, 3);
 }
 
-
-int main() {
-    //test_10(1);
-    //MakeCase();
-    //test_12();
-    /*int max = 4;
-    char sequence[4];
-    int current_len = 0;
-    int target_len = 3;
-    test_13(visit, max, current_len, target_len, sequence);*/
-    int visit[4] = { 0 };
-    test_13(visit, 5);
-    return 0;
-}
+//
+//int main() {
+//    //test_10(1);
+//    //MakeCase();
+//    //test_12();
+//    /*int max = 4;
+//    char sequence[4];
+//    int current_len = 0;
+//    int target_len = 3;
+//    test_13(visit, max, current_len, target_len, sequence);*/
+//    int visit[4] = { 0 };
+//    test_13(visit, 5);
+//    return 0;
+//}

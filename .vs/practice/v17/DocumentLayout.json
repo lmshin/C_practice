@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\DSO7\\source\\repos\\practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FDA11D5-8B19-43BD-AF63-55FE66F7BA5F}|algorithm\\algorithm.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\LinedLsit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FDA11D5-8B19-43BD-AF63-55FE66F7BA5F}|algorithm\\algorithm.vcxproj|solutionrelative:algorithm\\LinedLsit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDA11D5-8B19-43BD-AF63-55FE66F7BA5F}|algorithm\\algorithm.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\day10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FDA11D5-8B19-43BD-AF63-55FE66F7BA5F}|algorithm\\algorithm.vcxproj|solutionrelative:algorithm\\day10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FDA11D5-8B19-43BD-AF63-55FE66F7BA5F}|algorithm\\algorithm.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6FDA11D5-8B19-43BD-AF63-55FE66F7BA5F}|algorithm\\algorithm.vcxproj|solutionrelative:algorithm\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\preorocessor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\preorocessor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FDA11D5-8B19-43BD-AF63-55FE66F7BA5F}|algorithm\\algorithm.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\recursive.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6FDA11D5-8B19-43BD-AF63-55FE66F7BA5F}|algorithm\\algorithm.vcxproj|solutionrelative:algorithm\\recursive.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\preorocessor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|solutionrelative:practice\\preorocessor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81EC9057-19A7-40F9-B688-4FAFE9B8D1DA}|practice\\practice.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day02.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -118,24 +126,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "preorocessor.c",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\preorocessor.c",
-              "RelativeDocumentMoniker": "practice\\preorocessor.c",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\preorocessor.c",
-              "RelativeToolTip": "practice\\preorocessor.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LinedLsit.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\LinedLsit.c",
+              "RelativeDocumentMoniker": "algorithm\\LinedLsit.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\LinedLsit.c",
+              "RelativeToolTip": "algorithm\\LinedLsit.c",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAALAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-16T05:07:30.572Z",
+              "WhenOpened": "2025-06-19T02:29:17.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\main.c",
+              "RelativeDocumentMoniker": "algorithm\\main.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\main.c",
+              "RelativeToolTip": "algorithm\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-16T02:36:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "recursive.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\recursive.h",
               "RelativeDocumentMoniker": "algorithm\\recursive.h",
@@ -148,20 +169,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\main.c",
-              "RelativeDocumentMoniker": "algorithm\\main.c",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\main.c",
-              "RelativeToolTip": "algorithm\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-16T02:36:32.459Z",
+              "DocumentIndex": 1,
+              "Title": "day10.cpp",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\day10.cpp",
+              "RelativeDocumentMoniker": "algorithm\\day10.cpp",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\algorithm\\day10.cpp",
+              "RelativeToolTip": "algorithm\\day10.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T03:06:46.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "preorocessor.c",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\preorocessor.c",
+              "RelativeDocumentMoniker": "practice\\preorocessor.c",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\preorocessor.c",
+              "RelativeToolTip": "practice\\preorocessor.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-16T05:07:30.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "alloc_data.txt",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\alloc_data.txt",
               "RelativeDocumentMoniker": "practice\\alloc_data.txt",
@@ -173,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "day09.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day09.c",
               "RelativeDocumentMoniker": "practice\\day09.c",
@@ -181,12 +214,11 @@
               "RelativeToolTip": "practice\\day09.c",
               "ViewState": "AgIAABsBAAAAAAAAAAAowCwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-13T00:05:06.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T00:05:06.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "data.txt",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\data.txt",
               "RelativeDocumentMoniker": "practice\\data.txt",
@@ -198,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "numbers.txt",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\numbers.txt",
               "RelativeDocumentMoniker": "practice\\numbers.txt",
@@ -210,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "day08.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day08.h",
               "RelativeDocumentMoniker": "practice\\day08.h",
@@ -222,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "day08.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day08.c",
               "RelativeDocumentMoniker": "practice\\day08.c",
@@ -230,12 +262,11 @@
               "RelativeToolTip": "practice\\day08.c",
               "ViewState": "AgIAACMAAAAAAAAAAAAmwNkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-12T00:06:44.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T00:06:44.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "num.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\num.c",
               "RelativeDocumentMoniker": "practice\\num.c",
@@ -247,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "day04.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.h",
               "RelativeDocumentMoniker": "practice\\day04.h",
@@ -259,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "day03.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.h",
               "RelativeDocumentMoniker": "practice\\day03.h",
@@ -271,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "func.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\func.c",
               "RelativeDocumentMoniker": "practice\\func.c",
@@ -283,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "day02.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day02.h",
               "RelativeDocumentMoniker": "practice\\day02.h",
@@ -291,12 +322,11 @@
               "RelativeToolTip": "practice\\day02.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-02T01:20:02.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T01:20:02.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "student.txt",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\student.txt",
               "RelativeDocumentMoniker": "practice\\student.txt",
@@ -308,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "day05.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.c",
               "RelativeDocumentMoniker": "practice\\day05.c",
@@ -320,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\main.c",
               "RelativeDocumentMoniker": "practice\\main.c",
@@ -328,12 +358,11 @@
               "RelativeToolTip": "practice\\main.c",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-02T01:20:40.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T01:20:40.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "day09.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day09.h",
               "RelativeDocumentMoniker": "practice\\day09.h",
@@ -345,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "day04.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day04.c",
               "RelativeDocumentMoniker": "practice\\day04.c",
@@ -357,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "test01.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\test01.c",
               "RelativeDocumentMoniker": "practice\\test01.c",
@@ -369,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "day07.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.h",
               "RelativeDocumentMoniker": "practice\\day07.h",
@@ -381,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "day07.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day07.c",
               "RelativeDocumentMoniker": "practice\\day07.c",
@@ -393,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "day05.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day05.h",
               "RelativeDocumentMoniker": "practice\\day05.h",
@@ -405,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "day06.h",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.h",
               "RelativeDocumentMoniker": "practice\\day06.h",
@@ -417,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "day06.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day06.c",
               "RelativeDocumentMoniker": "practice\\day06.c",
@@ -429,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "day03.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day03.c",
               "RelativeDocumentMoniker": "practice\\day03.c",
@@ -437,12 +466,11 @@
               "RelativeToolTip": "practice\\day03.c",
               "ViewState": "AgIAAIEAAAAAAAAAAABIwIwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-04T00:08:06.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T00:08:06.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "day02.c",
               "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\practice\\day02.c",
               "RelativeDocumentMoniker": "practice\\day02.c",
