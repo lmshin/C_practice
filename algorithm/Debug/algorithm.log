@@ -1,2 +1,5 @@
-﻿  LinedLsit.c
+﻿  Heap.c
+C:\Users\DSO7\source\repos\practice\algorithm\Heap.c(19,20): warning C4013: 'calloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\DSO7\source\repos\practice\algorithm\Heap.c(23,3): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\DSO7\source\repos\practice\algorithm\Heap.c(29,3): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   algorithm.vcxproj -> C:\Users\DSO7\source\repos\practice\Debug\algorithm.exe

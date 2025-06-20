@@ -24,10 +24,19 @@
     <ClCompile Include="LinedLsit.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Heap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tmp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="recursive.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="pq_data.txt" />
   </ItemGroup>
 </Project>

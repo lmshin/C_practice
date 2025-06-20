@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\DSO7\source\repos\practice\projectx\sub2.h(11,15): error C2011: 'student': 'struct' 형식 재정의
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+      C:\Users\DSO7\source\repos\practice\projectx\sub1.h(12,8):
+      'student' 선언을 참조하십시오.
+  
+  sub2.c
+C:\Users\DSO7\source\repos\practice\projectx\sub2.h(14,2): warning C4091: 'static ': 변수를 선언하지 않으면 'student' 왼쪽은 무시됩니다.
+  (소스 파일 'sub2.c'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

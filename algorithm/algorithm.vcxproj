@@ -124,11 +124,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="day10.cpp" />
-    <ClCompile Include="LinedLsit.c" />
+    <ClCompile Include="Heap.c" />
+    <ClCompile Include="LinedLsit.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="main.c" />
+    <ClCompile Include="tmp.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="recursive.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="pq_data.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

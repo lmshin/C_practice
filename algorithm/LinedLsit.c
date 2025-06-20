@@ -1,4 +1,4 @@
-#if 01
+#if 01 Linked List
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -110,6 +110,75 @@ NodeD* DLL_CreateNode(ElementType value) {
 	return new_node;
 }
 
+void DLL_appendNode(pNodeD Tail, pNodeD newnode) {
+
+	newnode->prev = Tail->prev;
+	newnode->next = Tail;
+	Tail->prev->next = newnode;
+	Tail->prev = newnode;
+}
+
+void DLL_deleteNode(pNodeD Head, pNodeD Tail, ElementType value) {
+	
+
+	printf("찾는 값이 없습니다!");
+	return;
+}
+
+pNodeD DLL_SearchNode(ElementType Data, pNodeD Head, pNodeD Tail) {
+	pNodeD target = Head->next;
+
+	while (target != Tail) {
+		if (target->Data == Data) {
+			return target;
+		}
+		target = target->next;
+	}
+
+	printf("찾는값이 없습니다!\n");
+	return NULL;
+}
+
+void DLL_RemoveNode(pNodeD DelNode) {
+	
+	if (DelNode == NULL) {
+		printf("삭제할 노드가 NULL 입니다.");
+		return;
+	}
+	
+	if (DelNode->prev->prev == NULL || DelNode->next->next == NULL) {
+		return;
+	}
+
+	DelNode->prev->next = DelNode->next;
+	DelNode->next->prev = DelNode->prev;
+	free(DelNode);
+
+	return;
+}
+
+void DLL_insertNode(pNodeD fNode, pNodeD newNode) {
+	
+	if (newNode == NULL || fNode == NULL) {
+		return;
+	}
+
+	newNode->prev = fNode;
+	newNode->next = fNode->next;
+	fNode->next->prev = newNode;
+	fNode->next = newNode;
+
+	return;
+}
+
+void DLL_printNode(pNodeD Head, pNodeD Tail) {
+	pNodeD curr = Head->next;
+	while (curr != Tail) {
+		printf("%d ", curr->Data);
+		curr = curr->next;
+	}
+}
+
 NodeT* Tree_CreateNode(ElementType value) {
 	NodeT* new_node = (NodeT*)malloc(sizeof(NodeT));
 
@@ -127,32 +196,52 @@ NodeT* Tree_CreateNode(ElementType value) {
 int main(void) {
 	pNodeD Head = DLL_CreateNode(0);
 	pNodeD Tail = DLL_CreateNode(0);
+
 	Head->next = Tail;
 	Tail->prev = Head;
 
-	NodeD A, B, C;
-	
+	DLL_appendNode(Tail, DLL_CreateNode(10));
+	DLL_appendNode(Tail, DLL_CreateNode(20));
+	DLL_appendNode(Tail, DLL_CreateNode(30));
+
+	/*NodeD A, B, C;
+
 	A = (NodeD){ 10,NULL,&B };
 	B = (NodeD){ 20,&A,&C };
-	C = (NodeD){ 30,&B,NULL };
+	C = (NodeD){ 30,&B,NULL };*/
 
-	Head->next = &A;
-	A.prev = NULL;
-	A.Data = 10;
-	A.next = &B;
-	B.prev = &A;
-	B.next = &C;
-	C.prev = &B;
-	C.next = NULL;
-	Tail->prev = &C;
+	//Head->next = &A;
+	//A.prev = Head;
+	//A.Data = 10;
+	//A.next = &B;
+	//B.prev = &A;
+	//B.next = &C;
+	//C.prev = &B;
+	//C.next = Tail;
+	//Tail->prev = &C;
 	
-	pNodeD tmp = &A;
+	
+	
+	
+
+	DLL_RemoveNode(DLL_SearchNode(20, Head, Tail));
+
+	pNodeD D = DLL_CreateNode(45);
+	DLL_appendNode(Tail, D);
+	DLL_insertNode(D, DLL_CreateNode(46));
+
+	DLL_printNode(Head, Tail);
+
+	/*pNodeD tmp = &A;
 	while (tmp != NULL) {
 		printf("%d ", tmp->Data);
 		tmp = tmp->next;
 	}
-	printf("\n");
+	printf("\n");*/
 
+
+
+	//--------------------------------- Tree ---------------------------------------
 	pNodeT A2, B2, C2, D2, E2;
 	A2 = Tree_CreateNode(1);
 	B2 = Tree_CreateNode(2);
@@ -170,8 +259,29 @@ int main(void) {
 	//D2 = (NodeT){ 40,NULL,NULL };
 	//E2 = (NodeT){ 50,NULL,NULL };
 
-	printf("A %d %d %d\n", A2->Data, A2->left->Data, A2->left->left->Data);
-	printf("A %d %d %d\n", A2->Data, A2->left->Data, A2->left->right->Data);
+	//printf("A %d %d %d\n", A2->Data, A2->left->Data, A2->left->left->Data);
+	//printf("A %d %d %d\n", A2->Data, A2->left->Data, A2->left->right->Data);
+
+	
+
 }
 
 #endif // 02
+
+//#if 03 Circular Linked List
+//typedef int ElementType;
+//typedef struct Circular_Node{
+//	ElementType data;
+//	Node* prev;
+//	Node* next;
+//}Circular_Node;
+//
+//typedef Circular_Node* pCircular_Node;
+//
+////함수구현
+//
+//
+//
+//
+//
+//#endif
