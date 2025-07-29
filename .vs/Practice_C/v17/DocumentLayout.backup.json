@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DSO7\\source\\repos\\Practice_C\\",
+  "WorkspaceRootPath": "C:\\Users\\DSO7\\source\\repos\\practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76565766-AA69-4CC3-BDE9-58F4D1CB2135}|Practice_C\\Practice_C.vcxproj|C:\\Users\\DSO7\\source\\repos\\Practice_C\\Practice_C\\Practice_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{76565766-AA69-4CC3-BDE9-58F4D1CB2135}|Practice_C\\Practice_C.vcxproj|C:\\Users\\DSO7\\source\\repos\\practice\\Practice_C\\Practice_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{76565766-AA69-4CC3-BDE9-58F4D1CB2135}|Practice_C\\Practice_C.vcxproj|solutionrelative:Practice_C\\Practice_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Practice_C.cpp",
-              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\Practice_C\\Practice_C\\Practice_C.cpp",
+              "DocumentMoniker": "C:\\Users\\DSO7\\source\\repos\\practice\\Practice_C\\Practice_C.cpp",
               "RelativeDocumentMoniker": "Practice_C\\Practice_C.cpp",
-              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\Practice_C\\Practice_C\\Practice_C.cpp",
+              "ToolTip": "C:\\Users\\DSO7\\source\\repos\\practice\\Practice_C\\Practice_C.cpp",
               "RelativeToolTip": "Practice_C\\Practice_C.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-24T00:18:35.06Z",
               "EditorCaption": ""

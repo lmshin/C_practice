@@ -139,6 +139,7 @@
     <ClCompile Include="..\..\practice\예제코드\main.c" />
     <ClCompile Include="..\..\practice\예제코드\num.c" />
     <ClCompile Include="Practice_C.cpp" />
+    <ClCompile Include="Stack(list).c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\practice\예제코드\alloc_data.txt" />

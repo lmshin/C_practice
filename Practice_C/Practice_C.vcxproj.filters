@@ -69,6 +69,9 @@
     <ClCompile Include="..\..\practice\예제코드\num.c">
       <Filter>소스 파일\daily_code</Filter>
     </ClCompile>
+    <ClCompile Include="Stack(list).c">
+      <Filter>소스 파일\data_structure</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\practice\예제코드\alloc_data.txt">
