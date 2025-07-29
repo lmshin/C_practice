@@ -1,7 +1,0 @@
-﻿  main.c
-C:\Users\DSO7\source\repos\practice\practice\day04.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
-  (소스 파일 'main.c'을(를) 컴파일하는 중)
-      C:\Users\DSO7\source\repos\practice\practice\day04.h(3,9):
-      이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
-  
-  practice.vcxproj -> C:\Users\DSO7\source\repos\practice\Debug\practice.exe
